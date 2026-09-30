@@ -37,16 +37,13 @@ const hasnain = {
   launchedProjects: [
     "Postly Photo Uploader",
     "CineVerse",
-    "TravelScape"
+    "TravelScape Ai Trip Planner",
+    "Stride Store",
+    "Build inside Shopify with MERN (Ambedded App)"
   ],
   certifications: [
-    "freeCodeCamp - JavaScript (Aug 2026)",
-    "freeCodeCamp - Front-End Development Libraries (Sep 2026)"
-  ],
-  status: "Open to work",
-  openTo: [
-    "MERN Stack Developer internship",
-    "Real-world industry experience"
+    "freeCodeCamp - JavaScript Special List",
+    "freeCodeCamp - Front-End Development Libraries"
   ]
 };
 ```
