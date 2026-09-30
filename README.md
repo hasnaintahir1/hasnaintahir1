@@ -150,10 +150,6 @@ A travel landing website featuring responsive design and custom layouts.
 
 <br/>
 
-### 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaintahir1&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" />
-
 ---
 
 ## 🤝 Connect With Me
