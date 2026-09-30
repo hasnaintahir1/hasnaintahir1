@@ -5,13 +5,13 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/hasnaintahir1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+with+React%2C+Next.js+%26+Node.js;Shipped+CineVerse+%26+TravelScape;freeCodeCamp+certified+in+JavaScript;Looking+for+a+MERN+internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+with+React%2C+Next.js+%26+Node.js;Shipped+CineVerse+%26+TravelScape;freeCodeCamp+certified+in+JavaScript;Looking+for+a+MERN" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- OPEN TO WORK -->
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-MERN%20Internship-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-MERN%20Stack-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
 
 <br/><br/>
 
@@ -149,12 +149,6 @@ A travel landing website featuring responsive design and custom layouts.
 </div>
 
 <br/>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnaintahir1&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-</div>
 
 ### 📈 Contribution Activity
 
