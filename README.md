@@ -52,7 +52,7 @@ const hasnain = {
 
 ## 🚀 Featured Projects
 
-### 📸 Postly Photo Uploader
+### Postly Photo Uploader
 
 <a href="https://github.com/hasnaintahir1/Postly-Photo-Uploader">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnaintahir1&repo=Postly-Photo-Uploader&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="Postly Photo Uploader" />
@@ -66,11 +66,11 @@ A full-stack photo uploader app built with React, Node, Express and MongoDB.
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
 
-🔗 [**Live Demo**](https://strideshoesweb.netlify.app) &nbsp;|&nbsp; 💻 [**Source Code**](https://github.com/hasnaintahir1/Postly-Photo-Uploader)
+🔗 [**Live Demo**](https://postly-photouploader.vercel.app/) &nbsp;|&nbsp; 💻 [**Source Code**](https://github.com/hasnaintahir1/Postly-Photo-Uploader)
 
 ---
 
-### 🎬 CineVerse
+### CineVerse Movie App
 
 <a href="https://github.com/hasnaintahir1/cineversewebs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnaintahir1&repo=cineversewebs&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="cineversewebs" />
@@ -88,7 +88,7 @@ A movie streaming interface built with React, Swiper.js and a custom UI.
 
 ---
 
-### ✈️ TravelScape
+### TravelScape Ai Trip Planner
 
 <a href="https://github.com/hasnaintahir1/travelscapeweb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnaintahir1&repo=travelscapeweb&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="travelscapeweb" />
